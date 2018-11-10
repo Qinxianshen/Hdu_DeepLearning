@@ -54,6 +54,14 @@ label_warp = {'正常': 0,
 
 ## 阿里天池2018 Keypoints Detection of Apparel-Challenge the Baseline
 
+> * 数据预处理
+> * 训练模型
+> * 用模型去预测新的点的位置
+
+![没用数据增强](./4.png)
+
+详细内容见相关仓库：
+[衣服关键节点检测](https://github.com/Qinxianshen/MobileNet_facekeypoint)
 
 
 ## 人脸关键节点检测
