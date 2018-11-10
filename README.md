@@ -58,6 +58,26 @@ label_warp = {'正常': 0,
 
 ## 人脸关键节点检测
 
+> * 人脸定位
+> * 数据加载处理
+> * MobileNet网络编写
+> * 训练与测试
+
+没用数据增强：
+![没用数据增强](./img.png)
+
+
+使用数据增强：
+![使用数据增强](./img-aug.png)
+
+
+![使用数据增强](./earseImage.png)
+
+红色的点是预测的值，蓝色的点是实际的值
+
+
+详细内容见相关仓库：
+[人脸关键节点检测](https://github.com/Qinxianshen/MobileNet_facekeypoint)
 
 
 ## LFW人脸库处理以及人脸识别
