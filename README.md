@@ -62,9 +62,15 @@ label_warp = {'正常': 0,
 
 ## LFW人脸库处理以及人脸识别
 
+> * Group Normaliztion
+> * 卷积原理
+> * MobileNet
+> * 使用VGG19+Group Normaliztion 在LFW上分类
 
+详细内容见相关仓库：
 [LFW人脸库处理](https://github.com/Qinxianshen/lfw-face)
 
+[人脸识别](https://github.com/Qinxianshen/Face_-classification_)
 
 
 ## 关于我
